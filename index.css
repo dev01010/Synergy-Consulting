@@ -208,6 +208,7 @@ form .message {
   width: 509px;
   outline: none !important;
   height: 100px;
+  margin-top: 10px;
 }
 form button {
   width: 509px;
