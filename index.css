@@ -203,6 +203,12 @@ form .mail {
   padding: 10px;
   margin-top: 10px;
 }
+
+form .message {
+  width: 509px;
+  outline: none !important;
+  height: 100px;
+}
 form button {
   width: 509px;
   padding: 10px;
